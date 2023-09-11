@@ -1,1 +1,93 @@
-body{background-color:blue;}
+
+	body{
+
+		margin:20px;
+
+		
+
+		
+
+		}
+
+	#form
+
+	{
+
+		height:440px;
+
+		width:350px;
+
+		background:white;
+
+box-shadow:25px 25px 75px red;
+
+		border-radius:35px 70px 70px 35px/70px 70px 35px 35px;
+
+	margin-top:20px;
+
+	left-margin:60px;
+
+	text-align: center;
+
+	align:center;
+
+		}
+
+		.form{
+
+			height:80px;
+
+			width:280px;
+
+			border-radius:30px;
+
+			text-align:center;
+
+				align-items:center;
+
+			}
+
+			#input{
+
+				margin:20px;
+
+				align-text:center;
+
+				align-items:center;
+
+				margin-right:20px;
+
+		
+
+				}
+
+#input:hover
+
+{background:paleturquoise;
+
+color:red;
+
+	}
+
+	.form:hover
+
+{background:lightblue;
+
+color:red;
+
+	}
+
+#mainform{margin:30px;}
+
+.form1{margin-left:290px;
+
+height:40px;
+
+width:130px;
+
+background:silver;
+
+border-radius:38px;
+
+}
+
